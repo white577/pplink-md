@@ -30,8 +30,6 @@
 <li>Android安装<a href="https://dw.pplink.xyz/d/Onedrive/IDM/1DM.apk?sign=7d623f7cf6ec339c">1DM</a>后，使用1DM下载。</li>
 <li>PC端安装<a href="https://dw.pplink.xyz/d/Onedrive/IDM/IDM_v6.40.11_Repack.exe?sign=0a73f941009fd12f">IDM</a>,使用IDM下载。</li>
 </ul></div>
-<hr>
---&gt; ☆ <a href="https://data.pplink.xyz" target="_blank">Data </a> ☆ <a href="https://dw.pplink.xyz" target="_blank">pplink</a>
-	</div>
+</div>
 </body>
 </html>
