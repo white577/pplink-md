@@ -16,8 +16,8 @@
 </ul>
 <h4>如果遇到以上问题，可尝试以下方法解决：</h4>
 <ul>
-<li>Android安装<a href="https://nics.eu.org/Aliyundrive/Softs/VLC">VLC</a>后，点击视频下方的VLC橙色按钮就可以跳转到软件内正常播放</li>
-<li>iOS安装<a href="https://apps.apple.com/cn/app/nplayer/id1116905928">nPlayer</a>后，点击视频下方的nPlayer青色按钮就可以跳转到软件内正常播放</li>
+<li>Android安装<a href="https://nics.eu.org/Aliyundrive/Softs/VLC">VLC</a>后，点击视频下方的VLC橙色按钮，就可以跳转到软件内正常播放</li>
+<li>iOS安装<a href="https://apps.apple.com/cn/app/nplayer/id1116905928">nPlayer</a>后，点击视频下方的nPlayer青色，按钮就可以跳转到软件内正常播放</li>
 <li>PC端安装<a href="https://nics.eu.org/Aliyundrive/Softs/PotPlayer">PotPlayer</a>,点击视频下方的黄色Potplayer按钮，就可以跳转到PotPayer软件内正常播放。</li>
 </ul></div>
 </div>
